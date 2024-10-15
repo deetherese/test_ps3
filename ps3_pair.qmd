@@ -6,8 +6,8 @@ format: pdf
 
 ```{python}
 def add_two(x):
-    return x + 2
-
+    return [x.head(), x.head()]
+    
 add_two(3)
 ```
 
