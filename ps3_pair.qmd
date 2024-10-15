@@ -1,0 +1,13 @@
+---
+title: "30538 Problem Set 3: git pair"
+author: "Dema"
+format: pdf 
+---
+
+```{python}
+def add_two(x):
+    return x + 2
+
+add_two(3)
+```
+
