@@ -6,7 +6,10 @@ format: pdf
 
 ```{python}
 def add_two(x):
+    return [x.head(), x.head()]
     
+
+def add_two(x):    
     return [x.head(), x.describe()] 
 
 add_two(3)
